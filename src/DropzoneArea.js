@@ -49,7 +49,8 @@ const styles = {
         color: '#909090'
     },
     dropzoneParagraph: {
-        fontSize: 24
+        fontSize: 12,
+        margin: 5
     }
 }
 
